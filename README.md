@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Harshadvaru/Portfoliyo](https://github.com/Harshadvaru/Portfoliyo)
 
-- 💬 Ask me about **HTML/CSS,JAVASCRIPT,PHP,WORDPRESS,**
+- 💬 Ask me about **HTML/CSS,JAVASCRIPT,PHP,WORDPRESS.**
 
 - 📫 How to reach me **harshadvaru40@gmail.com**
 
